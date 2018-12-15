@@ -1,6 +1,6 @@
 # ST Flight Simulator
 
-ST Flight Simulaotr is a Star Wars inspired flight game. It was made as an assignment for Computer Graphics class at Federal University of ABC.
+ST Flight Simulator is a Star Wars inspired flight game. It was made as an assignment for Computer Graphics class at Federal University of ABC.
 
 ![Game screen](./gameplay.gif)
 
