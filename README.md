@@ -8,7 +8,7 @@ ST Flight Simulator is a Star Wars inspired flight game. It was made as an assig
 
 * **Arrow keys:** movement
 * **Spacebar:** shooting
-* **Enter:** restart game;
+* **Enter:** restart game
 
 The objective of the game is to score as much as possible. As time passes, your score gets higher. It also increases when you shoot enemies.
 
